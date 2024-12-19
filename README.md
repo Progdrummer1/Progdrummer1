@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis. 
 - 🌱 I’m currently learning SQL and R. 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Did you know that playing drums and doing data analysis both involve pattern recognition?
+- ⚡ Fun fact: Did you know that playing drums and doing data analysis both involve pattern analysis?
 
 <!---
 Progdrummer1/Progdrummer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
