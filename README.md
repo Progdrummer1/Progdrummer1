@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Progdrummer1
 - 👀 I’m interested in data analysis. 
-- 🌱 I’m currently learning SQL and R. 
+- 🌱 I’m currently learning SQL, python and R
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Did you know that playing drums and doing data analysis both involve pattern analysis?
 
